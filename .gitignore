@@ -33,3 +33,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore API keys or configuration files with sensitive data
+.env
+.env.local
+.env.development
+.env.test
+.env.production
