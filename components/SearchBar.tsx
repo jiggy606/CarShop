@@ -32,6 +32,8 @@ const SearchBar = () => {
                 />    
                 <SearchButton otherClasses="sm:hidden" />
             </div>
+
+            <div></div>
         </form>
     );
 }
